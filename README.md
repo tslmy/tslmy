@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on multiple **chatbot** projects
-  - https://github.com/StarsRail/Cocai is a chatbot that plays Call of Cthulhu (CoC) with you.
-  - https://github.com/colabear-info/agent is a group chat where AIs keep discussing and you can interrupt / contribute at any time.
+  - [StarsRail/Cocai](https://github.com/StarsRail/Cocai) is a chatbot that plays Call of Cthulhu (CoC) with you.
+  - [colabear-info/agent](https://github.com/colabear-info/agent) is a group chat where AIs keep discussing and you can interrupt / contribute at any time.
 - 🌱 I’m currently learning about how to make chatbots interact more humanlike.
 - 👯 I’m looking to collaborate on any of the chatbot projects mentioned above.
 - 🤔 I’m looking for help with [changing the lightbulb](http://www.inflection-point.com/jokes/50.htm).
